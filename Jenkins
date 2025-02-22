@@ -7,7 +7,7 @@ peline {
             steps {
                 script {
                     // This is a shell command inside the pipeline
-                    sh "echo 'This is my first repo'"
+                    sh "echo 'This is my second repo'"
                 }
             }
         }
