@@ -1,5 +1,5 @@
 
-peline {
+pipeline {
     agent any
 
     stages {
@@ -12,4 +12,4 @@ peline {
             }
         }
     }
-}|1|M307Qf5Bk0GQ0qZqOwTjLYdyMuc=|i3YM9xgt//WQQt8XsoWLlYS8vO0= ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK7fBlGFHvzcdh5KIvqLmK2aM3IYjHqkP+sP2Vu/O5M3
+}
