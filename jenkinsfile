@@ -7,7 +7,7 @@ pipeline {
             steps {
                 script {
                     // This is a shell command inside the pipeline
-                    sh "echo 'This is my first333 repo'"
+                    sh "echo 'This is my firs555repo'"
                 }
             }
         }
